@@ -88,6 +88,4 @@ This project is for educational purposes as part of the Cognifyz Technologies In
 
 ---
 
-## 🤝 Connect with Me
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile/)
-- **GitHub:** [Your GitHub Profile](https://github.com/your-username)
+
